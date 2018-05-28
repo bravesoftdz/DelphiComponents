@@ -1,3 +1,27 @@
 [submodule "Project-Jedi/jcl"]
 	path = Project-Jedi/jcl
 	url = https://github.com/project-jedi/jcl.git
+[submodule "Project-Jedi/jedi-apilib"]
+	path = Project-Jedi/jedi-apilib
+	url = https://github.com/ccy/jedi-apilib.git
+[submodule "Project-Jedi/jvcl"]
+	path = Project-Jedi/jvcl
+	url = https://github.com/project-jedi/jvcl.git
+[submodule "Project-Jedi/jedi"]
+	path = Project-Jedi/jedi
+	url = https://github.com/project-jedi/jedi.git
+[submodule "Project-Jedi/tools"]
+	path = Project-Jedi/tools
+	url = https://github.com/project-jedi/tools.git
+[submodule "Project-Jedi/JediVCS"]
+	path = Project-Jedi/JediVCS
+	url = https://github.com/Libaud/JediVCS.git
+[submodule "Project-Jedi/JEDIVCSToGit"]
+	path = Project-Jedi/JEDIVCSToGit
+	url = https://github.com/DGH2112/JEDIVCSToGit.git
+[submodule "DatabaseConnections/FiredacTables"]
+	path = DatabaseConnections/FiredacTables
+	url = https://github.com/amarildolacerda/FiredacTables.git
+[submodule "DatabaseConnections/fibplus"]
+	path = DatabaseConnections/fibplus
+	url = https://github.com/madorin/fibplus.git
